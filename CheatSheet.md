@@ -85,7 +85,7 @@ eg. print(re.search(r"p.ng","penguin"))<br>
 
 <b>Excercise: </b>Check if the text passed contains the vowels a,e and i with exactly one occurence of any other character in between.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 1] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/1.ipynb)</I>
 <hr>
 
 <h2> Wildcards and Character Classes</h2>
@@ -117,9 +117,9 @@ eg. print(re.search(r"p.ng","penguin"))<br>
       eg. print(re.search(r"cloud[a-zA-Z0-9]","cloudy"))
           o/p: <re.Match object; span=(0,6), match="cloudy">
 <hr>
-<b>Excercise: </b>Check if the text passed contains . , : ; ? !
+<b>Exercise: </b>Check if the text passed contains . , : ; ? ! 
 <br>
-<I> Link: </I>
+<I> Link: [Problem 2] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/2.ipynb) </I>
 <hr>
 
 
@@ -218,7 +218,7 @@ eg. print(re.search(r"p.ng","penguin"))<br>
 <hr>
 <b>Excercise: </b>Check if the text passed contains letter 'a' (lowercase or uppercase) atleast twice. If yes return True.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 3] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/3.ipynb)</I>
 <hr>
 
 
@@ -287,7 +287,7 @@ eg. print(re.search(r"p.ng","penguin"))<br>
 <hr>
   <b>Excercise: </b>Check if the text passed has atleast two groups of alphanumeric characters separated by one or more whitespace.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 4] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/4.ipynb)</I>
 <hr>
   <br>
   <h2> REGULAR EXPRESSIONS IN ACTION </h2>
@@ -322,26 +322,26 @@ eg. print(re.search(r"p.ng","penguin"))<br>
 <hr>
   <b>Excercise: </b>Check whether the string is a valid variable name in Python.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 5] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/5.ipynb)</I>
 <hr>
   <b>Excercise: </b>Check if the text passed starts with an Uppercase letter, followed by atleast some lowercase letters or space, and ends with a period, question mark or an exclamation point.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 6] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/6.ipynb)</I>
 <hr>
 <b>Excercise: </b>Check if the text passed qualifies as a top level web address.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 7] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/7.ipynb)</I>
 <hr>
  <b>Excercise: </b>Check time format of a 12hr clock.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 8] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/8.ipynb)</I>
 <hr>
  <b>Excercise: </b>Check for presence of 2 or more characters or digits surrounded by parenthesis, with atleast first character in upper case(if its a letter).
-<I> Link: </I>
+<I> Link: [Problem 9] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/9.ipynb)</I>
 <hr>
 <b>Excercise: </b>Check if the text passed includes a possible US zip code.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 10] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/10.ipynb)</I>
 <hr>
 <br>
   <H2> ADVANCED REGULAR EXPRESSIONS </H2>
@@ -388,7 +388,7 @@ o/p: re.Match object; span=(0, 11), match='Desai,Parth'
 <hr>
   <b>Excercise: </b> Create a function that would do the rearranging of name. i.e lastname comma firstname --> firstname lastname.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 11] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/11.ipynb)</I>
 <hr>
   
   <h2> More on Repitition Qualifiers</h2>
@@ -479,7 +479,7 @@ TypeError: 'NoneType' object is not subscriptable
 <hr>
 <b>Excercise: </b> Create a function that would extract the PID when possible and returns something else if not possible.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 12] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/12.ipynb)</I>
 <hr>
 <h2> Splitting and Replacing</h2>
 
@@ -526,7 +526,14 @@ eg. Lets now look at an example using sub where we use regex for replacing.
 <hr>
 <b>Excercise: </b> Split a piece of text either by letter 'a' or by the word 'the'.
 <br>
-<I> Link: </I>
+<I> Link: [Problem 13] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/13.ipynb)</I>
+<hr>
+
+DO CHECK OUT: <br>
+[Problem 14] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/14.ipynb) <br>
+[Problem 15] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/15.ipynb) <br>
+[Problem 16] (https://github.com/pdesai878/Regexes/blob/8196cba8b49779fc4f25e2ed7510692087c2ff24/Exercises/16.ipynb)
+
 <hr>
 <hr>
                                         
