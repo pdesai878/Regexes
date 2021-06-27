@@ -36,7 +36,7 @@
 
 * Use of re module<br>
  =>import re<br>
-     result=re.search(r"a2a","plaza")<br>
+     result=re.search(r"aza","plaza")<br>
      print(result)
 
      o/p: <re.Math object; span=(2,5), match='aza'>
